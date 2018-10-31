@@ -1,5 +1,5 @@
 {
-    "name": "AtServer/Exception",
+    "name": "at_server/exception",
     "description": "Exception",
     "license": "MIT",
     "type": "library",
